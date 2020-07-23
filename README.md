@@ -1,9 +1,11 @@
 "# ionlogin" 
+
+
+Backend php server for ionic auth client.
+
+
+
 Data base 
-
-
-
-
 CREATE TABLE `users` (
   `user_id` int(10) NOT NULL,
   `username` varchar(30) NOT NULL,
